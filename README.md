@@ -1,2 +1,2 @@
 # latha
-sample 
+sample program
